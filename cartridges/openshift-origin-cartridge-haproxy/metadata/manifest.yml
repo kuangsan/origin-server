@@ -20,11 +20,15 @@ Categories:
 - web_proxy
 - scales
 - embedded
+- service
+- php
+- web_framework
 Website: http://haproxy.1wt.eu/
 Provides:
 - haproxy-1.4
 - haproxy
 - web_proxy
+- php
 Components:
   web_proxy:
     Publishes:
