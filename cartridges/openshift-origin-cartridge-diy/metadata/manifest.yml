@@ -12,8 +12,10 @@ Cartridge-Version: 2.0.3
 Cartridge-Vendor: fromredhat
 Vendor: Fromredhat
 Categories:
+- service
+- javascript
+- nodejs
 - web_framework
-- experimental
 Website: 
 Help-Topics:
   Getting Started: https://www.openshift.com/videos/getting-started-with-diy-applications-on-openshift
