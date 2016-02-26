@@ -1,11 +1,11 @@
 ---
-Name: diy
-Cartridge-Short-Name: DIY
-Display-Name: Do-It-Yourself 0.1
+Name: nodejs
+Cartridge-Short-Name: NODEJS
+Display-Name: Node.js 0.10
 Description: The Do-It-Yourself (DIY) application type is a blank slate for trying
   unsupported languages, frameworks, and middleware on OpenShift. See the community
   site for examples of bringing your favorite framework to OpenShift.
-Version: '0.1'
+Version: '0.10'
 License: ASL 2.0
 License-Url: http://www.apache.org/licenses/LICENSE-2.0.txt
 Cartridge-Version: 2.0.3
